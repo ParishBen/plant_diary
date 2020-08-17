@@ -1,0 +1,3 @@
+class PlantController < ApplicationController
+
+end
